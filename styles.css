@@ -9,7 +9,9 @@
 body {
     font-family: 'Inter', sans-serif;
     font-size: 15px;
-    color: hsl(236, 13%, 42%)
+    color: hsl(236, 13%, 42%);
+    width: 1440px;
+    margin: auto auto;
 }
 
 header {
@@ -43,7 +45,7 @@ main {
 }
 
 .section-one {
-    
+    width: 700px;
 }
 
 .featured-image {
